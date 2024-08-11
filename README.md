@@ -1,9 +1,23 @@
-# contact_management_project!!!
+
 
 *I'm going to attempt to walk you through this*
 
-1. We have a greeting
-2. Once the user enters menu the menu should pop up
-3. then you go through by typing in desired options
-4. then the program should break when the user enters shutdown
+# Contact Management System
 
+## Description
+This is a simple command-line Contact Management System that allows users to add, edit, delete, search, display, export, and import contacts.
+
+## Features
+- Add, edit, and delete contacts
+- Search and display contacts
+- Export contacts to and import from text files
+
+## Usage
+1. Run the script: `python contact_manager.py`
+2. Follow the menu prompts to manage your contacts.
+
+## Examples
+To add a contact, choose option 1 and provide the required information.
+
+## License
+This project is licensed under the MIT License.
